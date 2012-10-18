@@ -226,9 +226,9 @@ h1, h2, h3, h4 { margin: 0; }
 #center h4 { margin: 0 0 10px 0; font-size: 13px; color: #fff; }
 #center h3 { font-size: 15px; color: #f1691f; }
 #center h2 { margin: 10px 0; font-size: 15px; letter-spacing: 3px; color: #fff; }
-#center h1 { margin: 10px 0 0 0; font-size: 25px; letter-spacing: 32px; color: #fff; }
+#center h1 { margin: 10px 0 0 0; font-size: 25px; letter-spacing: 33px; color: #fff; }
 
-#header hr {width: 529px; color: #fff; }
+#header hr {width: 538px; color: #fff; }
 
 #photo { width: 190px; border: 1px solid #BBB; padding: 2px; box-shadow: 0px 0px 14px -8px #000; }
   #photo, #photo img { border-radius: 3px; }
