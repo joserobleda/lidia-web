@@ -223,22 +223,22 @@ h1, h2, h3, h4 { margin: 0; }
 
 #center { width: 770px; margin: 0 auto; }
 #center h5 { margin: 10px 0; font-size: 13px; color: #21212b; }
-#center h4 { margin: 0 0 10px 0; font-size: 13px; color: #fef5ca; }
+#center h4 { margin: 0 0 10px 0; font-size: 13px; color: #fff; }
 #center h3 { font-size: 15px; color: #f1691f; }
-#center h2 { margin: 10px 0; font-size: 15px; letter-spacing: 3px; color: #fef5ca; }
-#center h1 { margin: 10px 0 0 0; font-size: 25px; letter-spacing: 32px; color: #fef5ca; }
+#center h2 { margin: 10px 0; font-size: 15px; letter-spacing: 3px; color: #fff; }
+#center h1 { margin: 10px 0 0 0; font-size: 25px; letter-spacing: 32px; color: #fff; }
 
-#header hr {width: 529px; color: #fef5ca; }
+#header hr {width: 529px; color: #fff; }
 
 #photo { width: 190px; border: 1px solid #BBB; padding: 2px; box-shadow: 0px 0px 14px -8px #000; }
   #photo, #photo img { border-radius: 3px; }
 #description { width: 440px; padding: 0 30px; }
-#main { background-color: #fef5ca; padding: 30px;  box-shadow: 0px 6px 14px -8px #000; }
+#main { background-color: #fff; padding: 30px;  box-shadow: 0px 6px 14px -8px #000; }
 #footer { font-size: 11px; text-align: center; color: #21212b;}
 
-#social { margin-top: 0px; text-align: left; font-size: 11px; color: #fef5ca; }
+#social { margin-top: 0px; text-align: left; font-size: 11px; color: #fff; }
   #social img { margin-bottom: 2px; }
-  #social a {margin-left: 3px; color: #fef5ca;}
+  #social a {margin-left: 3px; color: #fff;}
 #main p { font-size: 11px; text-align: justify; color: #21212b;}
 
 .right { float: right;}
